@@ -10,7 +10,7 @@
 
 		<meta name="keywords" content="HTML5 Template" />
 		<meta name="description" content="Porto - Responsive HTML5 Template">
-		<meta name="author" content="okler.net">
+		<meta name="author" content="ramazan köse">
 
 		<!-- Favicon -->
 		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
@@ -114,23 +114,23 @@
 								<nav>
 									<ul class="nav nav-pills" id="mainNav">
 										<li class="active">
-											<a href="index.php">
+											<a href="home">
 												Anasayfa
 											</a>
 										</li>
 										<li>
-											<a href="hakkimizda.php">
+											<a href="about-us">
 												Hakkımızda
 											</a>
 										</li>
 										<li>
-											<a href="haberler.php">
+											<a href="news">
 												Haberler
 											</a>
 										</li>
 										
 										<li>
-											<a href="iletisim.php">
+											<a href="contact">
 												İletişim
 											</a>
 										</li>

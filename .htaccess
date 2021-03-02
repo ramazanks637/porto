@@ -1,0 +1,10 @@
+RewriteEngine On
+
+# remove .(ext)
+RewriteRule ^([^/.]+)$ $1.php [L]
+
+# for rename routes
+RewriteRule ^home index.php [L]
+RewriteRule ^about-us hakkimizda.php [L]
+RewriteRule ^news haberler.php [L]
+RewriteRule ^contact iletisim.php [L]
