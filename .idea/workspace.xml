@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac78721a-d33b-4b3b-a487-ed79d5179601" name="Default Changelist" comment="deneme yapıyorum" />
+    <list default="true" id="ac78721a-d33b-4b3b-a487-ed79d5179601" name="Default Changelist" comment="düzenlendi">
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +74,7 @@
       <workItem from="1626435183806" duration="3841000" />
       <workItem from="1626455265710" duration="10223000" />
       <workItem from="1627298975645" duration="2843000" />
-      <workItem from="1627435655143" duration="298000" />
+      <workItem from="1627435655143" duration="611000" />
     </task>
     <task id="LOCAL-00001" summary="deneme yapıyorum">
       <created>1627435897513</created>
@@ -81,7 +83,42 @@
       <option name="project" value="LOCAL" />
       <updated>1627435897513</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deneme yapıyorum deneme">
+      <created>1627435979985</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627435979985</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deneme">
+      <created>1627436068326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627436068326</updated>
+    </task>
+    <task id="LOCAL-00004" summary="eski haline geri geldi">
+      <created>1627436160482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627436160482</updated>
+    </task>
+    <task id="LOCAL-00005" summary="eski haline geri geldi">
+      <created>1627436228563</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627436228563</updated>
+    </task>
+    <task id="LOCAL-00006" summary="düzenlendi">
+      <created>1627436266110</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627436266110</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +138,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="deneme yapıyorum" />
-    <option name="LAST_COMMIT_MESSAGE" value="deneme yapıyorum" />
+    <MESSAGE value="deneme yapıyorum deneme" />
+    <MESSAGE value="deneme" />
+    <MESSAGE value="eski haline geri geldi" />
+    <MESSAGE value="düzenlendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="düzenlendi" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
