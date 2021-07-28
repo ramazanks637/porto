@@ -390,7 +390,7 @@ $hakkimizdacek = $hakkimizdasor->fetch(PDO::FETCH_ASSOC);
                                        data-loading-text="Loading...">
 
                                 <div class="alert alert-success hidden" id="contactSuccess">
-                                    Message has been sent to us.
+                                    Message has been sent to usd.
                                 </div>
 
                                 <div class="alert alert-danger hidden" id="contactError">
