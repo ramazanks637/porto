@@ -15,7 +15,7 @@ $hakkimizdacek = $hakkimizdasor->fetch(PDO::FETCH_ASSOC);
                     </div>
                     <p class="mt-lg"><?php echo substr($hakkimizdacek['hakkimizda_icerik'], 0, 400); ?>...</p>
 
-                    <a class="mt-md" href="hakkimizda">Devamını ooku<i
+                    <a class="mt-md" href="hakkimizda">Devamını oku<i
                                 class="fa fa-long-arrow-right"></i></a>
                 </div>
 
